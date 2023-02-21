@@ -1,6 +1,7 @@
 
+
 import React from 'react';
-import DataGrid from './DataGrid'
+import DataGrid from './components/DataGrid'
 
 export function App() {
   return (
@@ -11,3 +12,5 @@ export function App() {
 }
 
 export default App;
+
+
