@@ -15,7 +15,7 @@ my-app: simple app originally created using the following 3 lines:
 
     npx create-react-app my-app
 
-    cd my-add
+    cd my-app
 
     npm start  
 
@@ -27,9 +27,12 @@ my-app: simple app originally created using the following 3 lines:
     You can edit src/App.js and save. The browser page will get updated as you save.
 
  to-do-app: this is copied from the sample app window at http://reactjs.org  into App.js above 
-            
 
+ GRID COMPONENT USED:
 
+    https://www.npmjs.com/package/react-grid-system
+
+    npm install react-grid-system --save
 
 
 
