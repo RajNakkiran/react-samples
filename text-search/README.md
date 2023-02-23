@@ -34,9 +34,9 @@ Get source from GitHub
 
 `npm start`
 
- This will open the application in the default browser and you will the final version. ( See below how to review )
+ This will open the application in the default browser and you will see the final version. ( See below how to review older versions)
 
-## How to Test ?
+## How to Test ? 
 
 `npm test`
 
