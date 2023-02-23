@@ -34,17 +34,48 @@ Get source from GitHub
 
 `npm start`
 
- This will open the appliaction in the default browser.
+ This will open the application in the default browser and you will the final version. ( See below how to review )
 
 ## How to Test ?
 
 `npm test`
 
-This will load the DOM into react test framework and probe for items 
+This will load the DOM into react test framework and probe for items.
+
 Currently there are test to verify a screen text and verify image count
 
+# How to review 
 
-## How to Use ? 
+***Assuming you have already started the npm application and currently viewing it in the browser*** 
+
+Open another command window and move the ProductApp folder
+
+`cd ProductApp`
+`git checkout V1`
+
+***The browser will refresh to early version that has a badly formatted list of products AND type selection box***
+
+`git checkout V2`
+
+***You will now see some images rather too big ones***
+
+`git checkout V3`
+
+***You will now see images in a grid***
+
+`git checkout V4`
+
+***You will ON SALE tags on some***
+
+`git checkout V5`
+
+***You will see free text selection box***
+
+`git checkout V6`
+
+***Final version. More items. Pretty layout. Nice?***
+
+# How to Use ? 
 
 When the application starts, it will display all the prodcuts.
 
