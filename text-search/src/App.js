@@ -17,7 +17,9 @@ function App() {
   );
 
   return (
+
     <div>
+      
       <h1> Text Search Sample Code</h1>
       <table align="center"> 
         <tr> 
