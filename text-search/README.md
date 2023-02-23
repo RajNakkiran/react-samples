@@ -48,9 +48,10 @@ Currently there are test to verify a screen text and verify image count
 
 ***Assuming you have already started the npm application and currently viewing it in the browser*** 
 
-Open another command window and move the ProductApp folder
+Open another command window and move to the ProductApp folder
 
 `cd ProductApp`
+
 `git checkout V1`
 
 ***The browser will refresh to early version that has a badly formatted list of products AND type selection box***
